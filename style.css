@@ -1,0 +1,21 @@
+.lodo{
+    padding: 10px;
+    background-color: lightgrey;
+    list-style: circle;
+    border-radius: 30px;
+    
+}
+.del{
+    margin-left: 10%;
+    padding: 10px 29px;
+    background-color: darkgray;
+    color: black;
+    border-radius: 29px;
+}
+.de{
+    
+    padding: 10px 29px;
+    background-color: darkgray;
+    color: black;
+    border-radius: 29px;
+}
